@@ -1,0 +1,3 @@
+[27-Apr-2012 16:56:32] PHP Fatal error:  Call to undefined function  add_action() in /home6/foxandf1/public_html/wp-content/themes/Karma/truethemes_framework/truethemes/contact-form/admin.php on line 3
+[27-Apr-2012 16:56:33] PHP Fatal error:  Call to undefined function  wp_print_scripts() in /home6/foxandf1/public_html/wp-content/themes/Karma/truethemes_framework/truethemes/contact-form/truethemes-form-view.php on line 6
+[27-Apr-2012 16:56:35] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home6/foxandf1/public_html/wp-content/themes/Karma/truethemes_framework/truethemes/contact-form/truethemes-contact-form.php on line 17

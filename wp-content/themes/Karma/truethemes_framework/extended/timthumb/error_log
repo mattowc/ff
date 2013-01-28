@@ -1,0 +1,1 @@
+[26-Jan-2013 12:40:06] PHP Warning:  touch() [<a href='function.touch'>function.touch</a>]: Utime failed: Permission denied in /home6/foxandf1/public_html/wp-content/themes/Karma/truethemes_framework/extended/timthumb/timthumb.php on line 469

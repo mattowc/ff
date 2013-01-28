@@ -1,0 +1,26 @@
+<wpml-config>
+ <admin-texts>
+	<key name="ka_sitelogo_upload" />
+	<key name="ka_loginlogo_upload" />
+	<key name="ka_favicon_upload" />
+	<key name="ka_logo_text" />
+	<key name="ka_searchbartext" />
+	<key name="ka_breadcrumbs_home_text" />
+	<key name="ka_scrolltoplinktext" />
+	<key name="ka_404title" />
+	<key name="ka_404message" />
+	<key name="ka_results_title" />
+	<key name="ka_results_fallback" />
+	<key name="ka_sitemap2_column1" />
+	<key name="ka_sitemap2_column2" />
+	<key name="ka_sitemap2_column3" />
+	<key name="ka_blogtitle" />
+	<key name="ka_blogbutton" />
+	<key name="ka_related_posts_title" />
+	<key name="ka_woocommerce_title" />
+	<key name="aioseop_options">
+	<key name="aiosp_home_title" />
+	<key name="aiosp_home_description" />
+	<key name="aiosp_home_keywords" />
+ </admin-texts>
+</wpml-config>

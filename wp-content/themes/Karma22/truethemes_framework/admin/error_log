@@ -1,0 +1,2 @@
+[27-Apr-2012 16:56:25] PHP Fatal error:  Call to undefined function  is_admin() in /home6/foxandf1/public_html/wp-content/themes/Karma/truethemes_framework/admin/admin-functions.php on line 30
+[27-Apr-2012 16:56:28] PHP Fatal error:  Call to undefined function  add_action() in /home6/foxandf1/public_html/wp-content/themes/Karma/truethemes_framework/admin/admin-interface.php on line 32

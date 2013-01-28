@@ -1,0 +1,1 @@
+[27-Apr-2012 16:56:18] PHP Fatal error:  Call to undefined function  get_option() in /home6/foxandf1/public_html/wp-content/themes/Karma/truethemes_framework/extended/seo-module/seo_module.php on line 54

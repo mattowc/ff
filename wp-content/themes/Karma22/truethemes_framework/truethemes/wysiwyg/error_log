@@ -1,0 +1,1 @@
+[27-Apr-2012 16:56:13] PHP Fatal error:  Call to undefined function  is_admin() in /home6/foxandf1/public_html/wp-content/themes/Karma/truethemes_framework/truethemes/wysiwyg/wysiwyg.php on line 38

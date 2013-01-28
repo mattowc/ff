@@ -1,0 +1,1 @@
+[27-Apr-2012 16:53:21] PHP Fatal error:  Call to undefined function  get_template_directory_uri() in /home6/foxandf1/public_html/wp-content/themes/Karma/truethemes_framework/truethemes_framework_init.php on line 9

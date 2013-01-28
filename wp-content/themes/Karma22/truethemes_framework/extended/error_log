@@ -1,0 +1,2 @@
+[27-Apr-2012 16:55:35] PHP Fatal error:  Call to undefined function  add_filter() in /home6/foxandf1/public_html/wp-content/themes/Karma/truethemes_framework/extended/page_linking.php on line 225
+[27-Apr-2012 16:55:38] PHP Fatal error:  Call to undefined function  add_action() in /home6/foxandf1/public_html/wp-content/themes/Karma/truethemes_framework/extended/multiple_sidebars.php on line 40
