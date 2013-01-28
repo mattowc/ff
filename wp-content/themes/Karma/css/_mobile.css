@@ -196,10 +196,11 @@ box-sizing:border-box;
 /* home banner styles start */
 .home-banner-wrap{
 width:738px;
-height:336px;
+height:356px;
 background-size:738px 336px;
 margin:30px auto 0;
 background-image:url(../images/_global/mobile-bg-jquery2-banner.png);
+background-size: 100% 370px;
 }
 
 .home-banner-wrap ul,
@@ -1094,6 +1095,12 @@ float:none;
 #sidebar.sidebar_blog{width:163px !important;}
 }
 @media only screen and (max-width:1023px){
+#footer .one_half_last {
+	width: 43% !important;
+}
+#footer .one_half {
+	width: 43% !important;
+}
 .search-form .text {
 background: url(../images/_global/mobile-search-bg.png) no-repeat scroll 0 0 transparent !important;
 }
@@ -1107,6 +1114,12 @@ box-sizing:border-box;
 #sidebar.left_sidebar{padding:0;}
 }
 @media only screen and (max-width:767px){
+#footer .one_half_last {
+	width: 100% !important;
+}
+#footer .one_half {
+	width: 100% !important;
+}
 .home-flash-slider {
 width:100%;
 margin-top:40px !important;
@@ -1194,7 +1207,7 @@ padding:0;
 }
 .home-banner-wrap ul,
 .home-banner-wrap ul li{
-margin-bottom: 180px;
+margin-bottom: 230px;
 width:451px !important;
 height: 300px !important;
 }
@@ -1473,6 +1486,12 @@ padding: 0 5px;
 }
 }
 @media only screen and (max-width:479px) {
+#footer .one_half {
+	width: 100% !important;
+}
+#footer .one_half_last {
+	width: 100% !important;
+}
 #wrapper #header {overflow: hidden;}
 #main .home-bnr-jquery{
 width: 260px;
@@ -1497,7 +1516,7 @@ background-size:290px 212px;
 .home-banner-wrap ul li {
 width:290px !important;
 height: 212px !important;
-margin-bottom: 250px;
+margin-bottom: 310px;
 }
 
 #main .home-banner-wrap,
